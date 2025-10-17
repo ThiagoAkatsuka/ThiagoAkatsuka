@@ -1,4 +1,7 @@
 # Olá! Eu sou Thiago Akatsuka 👋
+
+Desenvolvedor focado em automação, integrações e soluções inteligentes para negócios. Apaixonado por tecnologia, segurança da informação e aprendizado contínuo.
+
 ## 🚀 Sobre Mim
 <!-- Personalize sua bio aqui -->
 - 🔭 Desenvolvedor apaixonado por tecnologia
@@ -26,7 +29,6 @@
 <!-- ## 🎯 Projetos em Destaque
 
 [![Projeto 1](https://github-readme-stats.vercel.app/api/pin/?username=ThiagoAkatsuka&repo=nome-do-repo&theme=tokyonight)](https://github.com/ThiagoAkatsuka/nome-do-repo)
-
 [![Projeto 2](https://github-readme-stats.vercel.app/api/pin/?username=ThiagoAkatsuka&repo=outro-repo&theme=tokyonight)](https://github.com/ThiagoAkatsuka/outro-repo)
 -->
 
@@ -45,8 +47,7 @@
 
 ## 📚 Artigos Recentes
 <!-- Se você escreve artigos, adicione aqui -->
-<!-- - [Título do Artigo](link-do-artigo)
--->
+<!-- - [Título do Artigo](link-do-artigo)-->
 
 ## 🎨 Mais Opções de Customização
 <!-- TEMAS DISPONÍVEIS: default, dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
