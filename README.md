@@ -37,7 +37,7 @@ Atuação na equipe de desenvolvimento da G2i, com foco no aprendizado e aplica�
 - Colaboração em equipe: Participação em reuniões de equipe, contribuindo para o planejamento e organização das atividades do time.
 - Documentação técnica: Apoio na criação e atualização de documentações relacionadas aos projetos e sistemas desenvolvidos.
 
-[LinkedIn - Experiência G2i](https://www.linkedin.com/in/thiagoakatsuka/add-edit/POSITION/?profileFormEntryPoint=PROFILE_SECTION&entityUrn=urn%3Ali%3Afsd_profilePosition%3A%28ACoAAEtBHZQBGFn8CRZZpwS6Y-ob5K_1xUBnzFs%2C2745788921%29&trackingId=RpLG4wVoR4mPU7Wu0CbXQA%3D%3D&desktopBackground=MAIN_PROFILE)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagoakatsuka/)
 
 <!-- - **Cargo** - Empresa (Período)  - Descrição das atividades e conquistas-->
 ## 🎓 Educação & Certificações
@@ -47,6 +47,3 @@ Atuação na equipe de desenvolvimento da G2i, com foco no aprendizado e aplica�
 <!-- - **Curso/Graduação** - Instituição (Ano)
 - **Certificação** - Plataforma (Ano)
 -->
-## 🎨 Mais Opções de Customização
-<!-- TEMAS DISPONÍVEIS: default, dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
-<!-- Para alterar o tema, substitua 'tokyonight' por outro tema nas URLs acima -->
