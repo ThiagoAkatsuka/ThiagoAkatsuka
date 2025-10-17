@@ -27,22 +27,25 @@ Desenvolvedor focado em automação, integrações e soluções inteligentes par
 -->
 ## 💼 Experiência
 <!-- Adicione sua experiência profissional -->
-<!-- - **Cargo** - Empresa (Período)  - Descrição das atividades e conquistas
--->
+**Estagiário de desenvolvimento – G2i**
+Campo Grande, MS · jul/2025 – out/2025 · Presencial
+
+Atuação na equipe de desenvolvimento da G2i, com foco no aprendizado e aplicação de tecnologias para a criação e manutenção de soluções de software. Entre as principais atividades exercidas:
+- Desenvolvimento e manutenção de código: Colaboração na escrita e otimização de códigos em projetos de desenvolvimento, seguindo as boas práticas e padrões da equipe.
+- Apoio na resolução de problemas: Análise e acompanhamento de tarefas (tickets) para a correção de bugs e implementação de novas funcionalidades.
+- Testes e controle de qualidade: Auxílio na execução de testes unitários e de integração para garantir a qualidade e a estabilidade das aplicações.
+- Colaboração em equipe: Participação em reuniões de equipe, contribuindo para o planejamento e organização das atividades do time.
+- Documentação técnica: Apoio na criação e atualização de documentações relacionadas aos projetos e sistemas desenvolvidos.
+
+[LinkedIn - Experiência G2i](https://www.linkedin.com/in/thiagoakatsuka/add-edit/POSITION/?profileFormEntryPoint=PROFILE_SECTION&entityUrn=urn%3Ali%3Afsd_profilePosition%3A%28ACoAAEtBHZQBGFn8CRZZpwS6Y-ob5K_1xUBnzFs%2C2745788921%29&trackingId=RpLG4wVoR4mPU7Wu0CbXQA%3D%3D&desktopBackground=MAIN_PROFILE)
+
+<!-- - **Cargo** - Empresa (Período)  - Descrição das atividades e conquistas-->
 ## 🎓 Educação & Certificações
 <!-- Adicione sua formação e certificações -->
-
-![Hackathon Agro 4.0](image.jpg)
-
 **Hackathon Agro 4.0** - Participação e premiação no Hackathon Agro 4.0, realizado em Campo Grande, MS, em maio de 2025 – conquistando o 1º lugar no Desafio 2 com soluções inovadoras de tecnologia para o agronegócio.
-
 - [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7332991910988365824/)
 <!-- - **Curso/Graduação** - Instituição (Ano)
 - **Certificação** - Plataforma (Ano)
--->
-## 📚 Artigos Recentes
-<!-- Se você escreve artigos, adicione aqui -->
-<!-- - [Título do Artigo](link-do-artigo)
 -->
 ## 🎨 Mais Opções de Customização
 <!-- TEMAS DISPONÍVEIS: default, dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
